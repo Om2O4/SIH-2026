@@ -1,0 +1,24 @@
+{
+  "location": "Leh, India",
+  "climate_zone": "Cold and Dry",
+  "latitude": 34.15,
+  "longitude": 77.57,
+  "elevation": 3500,
+  "heating_degree_days": 3800,
+  "cooling_degree_days": 100,
+  "monthly_averages": [
+    { "month": "Jan", "temp": -8.0, "solar_rad": 3.2 },
+    { "month": "Feb", "temp": -5.0, "solar_rad": 4.1 },
+    { "month": "Mar", "temp": 0.0, "solar_rad": 5.3 },
+    { "month": "Apr", "temp": 6.0, "solar_rad": 6.5 },
+    { "month": "May", "temp": 11.0, "solar_rad": 7.2 },
+    { "month": "Jun", "temp": 16.0, "solar_rad": 7.8 },
+    { "month": "Jul", "temp": 19.0, "solar_rad": 7.4 },
+    { "month": "Aug", "temp": 18.0, "solar_rad": 6.9 },
+    { "month": "Sep", "temp": 13.0, "solar_rad": 5.8 },
+    { "month": "Oct", "temp": 7.0, "solar_rad": 4.6 },
+    { "month": "Nov", "temp": 0.0, "solar_rad": 3.5 },
+    { "month": "Dec", "temp": -5.0, "solar_rad": 2.9 }
+  ],
+  "dataSource": "MOCK_DATA"
+}
